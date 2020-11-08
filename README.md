@@ -1,6 +1,6 @@
 # Getting Started with React Router Dom Example
 
-![React Router Dom Example](appshot.png "app preview")
+![React Router Dom Example](Appshot.png "app preview")
 
 ## Available Scripts
 
